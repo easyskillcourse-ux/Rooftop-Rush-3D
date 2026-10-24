@@ -1,0 +1,8 @@
+{
+  "name": "Rooftop Rush 3D",
+  "description": "An exhilarating 3D endless parkour runner across sunset city rooftops, lush tropical forests, and mountain peaks with smooth jumping, sliding, and power-ups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
